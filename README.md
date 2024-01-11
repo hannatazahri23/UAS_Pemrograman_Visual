@@ -7,7 +7,7 @@
 | **Mata Kuliah** | Bahasa Pemrograman |
 #
 
-**Pada dokumen ini, saya akan memberikan beberapa Capture dari hasil project UAS Pemrograman Visual:**
+### **Pada dokumen ini, saya akan memberikan beberapa Capture dari hasil project UAS Pemrograman Visual:**
 
 * Halaman Utama
 ![img1](img/1PS.png)
