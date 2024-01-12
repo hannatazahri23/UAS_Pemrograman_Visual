@@ -3,7 +3,7 @@
 | -------- | --- |
 | **Nama** | M. Hannata Zahri |
 | **NIM** | 312010318 |
-| **Kelas** | TI.22.A.4 |
+| **Kelas** | TI.20.A.RPL-2 |
 | **Mata Kuliah** | Bahasa Pemrograman |
 #
 
